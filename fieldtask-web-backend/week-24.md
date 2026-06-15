@@ -40,3 +40,19 @@
 -  Client Location will have both GHL Address and Actual address
 - Self-originated update issue is fixed with cache instead of persistent time
 ---
+<div style="display: flex; justify-content: space-between; align-items:end;">
+  <div style="display:flex">
+      <img src="../assets/branch.svg" alt="GitHub Logo"  style="width:20px; margin:0 10px 0 0">
+      <h3 style="margin: 0; padding:0; font-weight: bold; font-size:20px;">fahim/customer-location-issue</h3>
+  </div>
+  <div style="display:flex">
+  <img src="../assets/github.svg" alt="GitHub Logo" style="width:20px">
+    <span style="color:rgb(16, 54, 226); text-align: right; margin:0 0 0 10px; padding:0px;">15 Jun, 2026 | 01:06 PM</span>
+  </div>
+</div>
+
+**_Commit:_** <code style="color: red; font-weight: bold;">023a65b</code>
+**Message:** Assignee Update Issue in the Appointment is fixed
+**Description:**
+- Assignee Update Issue in the Appointment is fixed
+---
