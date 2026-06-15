@@ -1695,3 +1695,73 @@ Shift Shcedule Page is made responsive
 
 Bottom and Top bar created
 ---
+<div style="display: flex; justify-content: space-between; align-items:end;">
+  <div style="display:flex">
+      <img src="../assets/branch.svg" alt="GitHub Logo"  style="width:20px; margin:0 10px 0 0">
+      <h3 style="margin: 0; padding:0; font-weight: bold; font-size:20px;">HEAD</h3>
+  </div>
+  <div style="display:flex">
+  <img src="../assets/github.svg" alt="GitHub Logo" style="width:20px">
+    <span style="color:rgb(16, 54, 226); text-align: right; margin:0 0 0 10px; padding:0px;">15 Jun, 2026 | 03:08 PM</span>
+  </div>
+</div>
+
+**_Commit:_** <code style="color: red; font-weight: bold;">42532d1e4</code>
+**Message:** # This is a combination of 13 commits. # This is the 1st commit message:
+**Description:**
+- # This is a combination of 13 commits.
+# This is the 1st commit message:
+
+Vitest added in the project
+
+# This is the commit message #2:
+
+Responsive Rules are written
+
+# This is the commit message #3:
+
+Architecture, Context and Responsive Workflow created
+
+# This is the commit message #4:
+
+The Agentic workflow for responsive design is complete now
+
+# This is the commit message #5:
+
+Dashboard is made Responsive
+
+- Small issues with  Icon Button
+- Small issues with dropdown
+
+# This is the commit message #6:
+
+The card will have similar icon button and dropdown
+
+# This is the commit message #7:
+
+Jobs in Map is redesigned
+
+# This is the commit message #8:
+
+Jobs in Map is workign correctly
+
+# This is the commit message #9:
+
+Mobile Version Done
+
+# This is the commit message #10:
+
+Scheduled Page is somewhat responsive
+
+# This is the commit message #11:
+
+Shift Shcedule Page is made responsive
+
+# This is the commit message #12:
+
+Bottom and Top bar created
+
+# This is the commit message #13:
+
+Top and Bottom Bar looks good. The modal of top bar looks good too. Only issues with menu item remains
+---
