@@ -6525,3 +6525,213 @@ Member Page is made responsive
 
 Removed unused variables and imports
 ---
+<div style="display: flex; justify-content: space-between; align-items:end;">
+  <div style="display:flex">
+      <img src="../assets/branch.svg" alt="GitHub Logo"  style="width:20px; margin:0 10px 0 0">
+      <h3 style="margin: 0; padding:0; font-weight: bold; font-size:20px;">HEAD</h3>
+  </div>
+  <div style="display:flex">
+  <img src="../assets/github.svg" alt="GitHub Logo" style="width:20px">
+    <span style="color:rgb(16, 54, 226); text-align: right; margin:0 0 0 10px; padding:0px;">15 Jun, 2026 | 03:09 PM</span>
+  </div>
+</div>
+
+**_Commit:_** <code style="color: red; font-weight: bold;">f7db3b3e2</code>
+**Message:** # This is a combination of 48 commits. # This is the 1st commit message:
+**Description:**
+- # This is a combination of 48 commits.
+# This is the 1st commit message:
+
+Vitest added in the project
+
+# This is the commit message #2:
+
+Responsive Rules are written
+
+# This is the commit message #3:
+
+Architecture, Context and Responsive Workflow created
+
+# This is the commit message #4:
+
+The Agentic workflow for responsive design is complete now
+
+# This is the commit message #5:
+
+Dashboard is made Responsive
+
+- Small issues with  Icon Button
+- Small issues with dropdown
+
+# This is the commit message #6:
+
+The card will have similar icon button and dropdown
+
+# This is the commit message #7:
+
+Jobs in Map is redesigned
+
+# This is the commit message #8:
+
+Jobs in Map is workign correctly
+
+# This is the commit message #9:
+
+Mobile Version Done
+
+# This is the commit message #10:
+
+Scheduled Page is somewhat responsive
+
+# This is the commit message #11:
+
+Shift Shcedule Page is made responsive
+
+# This is the commit message #12:
+
+Bottom and Top bar created
+
+# This is the commit message #13:
+
+Top and Bottom Bar looks good. The modal of top bar looks good too. Only issues with menu item remains
+
+# This is the commit message #14:
+
+Menubar is fixed
+
+# This is the commit message #15:
+
+Except Filtering, everythng is fixed apparently
+
+# This is the commit message #16:
+
+Job FIlter and Task Filter are made responsive
+
+# This is the commit message #17:
+
+Invoice Page Done
+
+# This is the commit message #18:
+
+Member Page Fixed
+
+# This is the commit message #19:
+
+Organization Part Done
+
+# This is the commit message #20:
+
+Buttons are fixed in Client
+
+# This is the commit message #21:
+
+App Bar now has transitions
+
+# This is the commit message #22:
+
+The list page of customer is looking good in both tablet and mobile
+
+# This is the commit message #23:
+
+Inner Box of Customer List is Done
+
+# This is the commit message #24:
+
+Workflow is updated
+
+# This is the commit message #25:
+
+Create & Edit Customer is made responsive
+
+# This is the commit message #26:
+
+Shift Schedule design issue resolved
+
+# This is the commit message #27:
+
+Client Code Refactored
+
+# This is the commit message #28:
+
+Buttons for Client is fixed
+
+# This is the commit message #29:
+
+Invoice Table Page Almost Done. 1 or 2 fixes needed yet
+
+# This is the commit message #30:
+
+Invoice is done
+
+# This is the commit message #31:
+
+All tests passed
+
+# This is the commit message #32:
+
+Dropdown style is changed
+
+# This is the commit message #33:
+
+Color issue on scheduling is fixed
+
+# This is the commit message #34:
+
+Dropdown  is working correctly in all cases of Invoice
+
+# This is the commit message #35:
+
+Responsive Design on Invoice page
+
+# This is the commit message #36:
+
+Create Invoice is almost Done
+
+# This is the commit message #37:
+
+Work on Create Invoice page is Done
+
+# This is the commit message #38:
+
+Invoice Preview and Client Preview Done
+
+# This is the commit message #39:
+
+Job List Page Done
+
+# This is the commit message #40:
+
+Organization and Job Part Done
+
+# This is the commit message #41:
+
+Product Page Working Fine
+
+# This is the commit message #42:
+
+Product Page Updated
+
+# This is the commit message #43:
+
+Organization Responsiveness Updated
+
+# This is the commit message #44:
+
+Organization now working correctly in Tablet, Mobile and Desktop
+
+# This is the commit message #45:
+
+The UI of Member Page is fixed in both Desktop and  Mobile Screen
+
+# This is the commit message #46:
+
+Member Page is made responsive
+
+# This is the commit message #47:
+
+Removed unused variables and imports
+
+# This is the commit message #48:
+
+UI of the Create Job page is fixed. Now it looks like before in the Desktop Version
+---
