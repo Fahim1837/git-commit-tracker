@@ -1,0 +1,25 @@
+<h1 style="text-align:center; margin-bottom:10px">Week-24</h1>
+<h2 style="text-align:center; margin:0px">13 - 19 June, 2026</h2>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <hr style="flex: 1; background-color: gray;" />
+  <span style="padding: 0 10px;font-weight:bold; color:gray">o</span>
+  <hr style="flex: 1; background-color: gray;" />
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items:end;">
+  <div style="display:flex">
+      <img src="../assets/branch.svg" alt="GitHub Logo"  style="width:20px; margin:0 10px 0 0">
+      <h3 style="margin: 0; padding:0; font-weight: bold; font-size:20px;">fahim/customer-location-issue</h3>
+  </div>
+  <div style="display:flex">
+  <img src="../assets/github.svg" alt="GitHub Logo" style="width:20px">
+    <span style="color:rgb(16, 54, 226); text-align: right; margin:0 0 0 10px; padding:0px;">15 Jun, 2026 | 12:10 PM</span>
+  </div>
+</div>
+
+**_Commit:_** <code style="color: red; font-weight: bold;">0b66964</code>
+**Message:**  Client Location will have both GHL Address and Actual address - Self-originated update issue is fixed with cache instead of persistent time
+**Description:**
+-  Client Location will have both GHL Address and Actual address
+- Self-originated update issue is fixed with cache instead of persistent time
+---
