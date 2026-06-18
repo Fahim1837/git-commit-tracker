@@ -11092,3 +11092,19 @@ The Edge Screen is fixed
 - 1. Delete Recurring Jobs Working
 2. Save button working during This and Future Job in Edit Shift
 ---
+<div style="display: flex; justify-content: space-between; align-items:end;">
+  <div style="display:flex">
+      <img src="../assets/branch.svg" alt="GitHub Logo"  style="width:20px; margin:0 10px 0 0">
+      <h3 style="margin: 0; padding:0; font-weight: bold; font-size:20px;">fahim/reccurring-delete</h3>
+  </div>
+  <div style="display:flex">
+  <img src="../assets/github.svg" alt="GitHub Logo" style="width:20px">
+    <span style="color:rgb(16, 54, 226); text-align: right; margin:0 0 0 10px; padding:0px;">18 Jun, 2026 | 05:50 PM</span>
+  </div>
+</div>
+
+**_Commit:_** <code style="color: red; font-weight: bold;">f248b82ee</code>
+**Message:** Navigation of Edit Job is made flexible
+**Description:**
+- Navigation of Edit Job is made flexible
+---
