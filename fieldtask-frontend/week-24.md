@@ -9975,3 +9975,19 @@ Translation i18 text added
 **Description:**
 - Shift Edit and Delete Working Correclty
 ---
+<div style="display: flex; justify-content: space-between; align-items:end;">
+  <div style="display:flex">
+      <img src="../assets/branch.svg" alt="GitHub Logo"  style="width:20px; margin:0 10px 0 0">
+      <h3 style="margin: 0; padding:0; font-weight: bold; font-size:20px;">fahim/reccurring-delete</h3>
+  </div>
+  <div style="display:flex">
+  <img src="../assets/github.svg" alt="GitHub Logo" style="width:20px">
+    <span style="color:rgb(16, 54, 226); text-align: right; margin:0 0 0 10px; padding:0px;">18 Jun, 2026 | 02:24 PM</span>
+  </div>
+</div>
+
+**_Commit:_** <code style="color: red; font-weight: bold;">182b6fd99</code>
+**Message:** The shift schedule is acting correctly as intended in all scheduling cases
+**Description:**
+- The shift schedule is acting correctly as intended in all scheduling cases
+---
