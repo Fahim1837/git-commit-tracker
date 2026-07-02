@@ -1391,3 +1391,19 @@ The Edge Screen is fixed
 - 1. ThreeDot action icon brought in place of multiple action button
 2. Job Duplication button brought in the responsive screens
 ---
+<div style="display: flex; justify-content: space-between; align-items:end;">
+  <div style="display:flex">
+      <img src="../assets/branch.svg" alt="GitHub Logo"  style="width:20px; margin:0 10px 0 0">
+      <h3 style="margin: 0; padding:0; font-weight: bold; font-size:20px;">fahim/duplication-job</h3>
+  </div>
+  <div style="display:flex">
+  <img src="../assets/github.svg" alt="GitHub Logo" style="width:20px">
+    <span style="color:rgb(16, 54, 226); text-align: right; margin:0 0 0 10px; padding:0px;">02 Jul, 2026 | 02:20 PM</span>
+  </div>
+</div>
+
+**_Commit:_** <code style="color: red; font-weight: bold;">8c720db4c</code>
+**Message:** Merge branch 'dev' into fahim/duplication-job
+**Description:**
+- Merge branch 'dev' into fahim/duplication-job
+---
