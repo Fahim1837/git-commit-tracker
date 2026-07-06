@@ -75,3 +75,19 @@
 4. Selecting "from office"  will by default select the toggle button ON
 5. Some texts changed in the Assignee Section
 ---
+<div style="display: flex; justify-content: space-between; align-items:end;">
+  <div style="display:flex">
+      <img src="../assets/branch.svg" alt="GitHub Logo"  style="width:20px; margin:0 10px 0 0">
+      <h3 style="margin: 0; padding:0; font-weight: bold; font-size:20px;">fahim/dispatch-native</h3>
+  </div>
+  <div style="display:flex">
+  <img src="../assets/github.svg" alt="GitHub Logo" style="width:20px">
+    <span style="color:rgb(16, 54, 226); text-align: right; margin:0 0 0 10px; padding:0px;">06 Jul, 2026 | 03:07 PM</span>
+  </div>
+</div>
+
+**_Commit:_** <code style="color: red; font-weight: bold;">87dbb38f4</code>
+**Message:** Organization Name added in the Map Window
+**Description:**
+- Organization Name added in the Map Window
+---
