@@ -54,3 +54,24 @@
 **Description:**
 - Job code replaced with Job No
 ---
+<div style="display: flex; justify-content: space-between; align-items:end;">
+  <div style="display:flex">
+      <img src="../assets/branch.svg" alt="GitHub Logo"  style="width:20px; margin:0 10px 0 0">
+      <h3 style="margin: 0; padding:0; font-weight: bold; font-size:20px;">fahim/dispatch-native</h3>
+  </div>
+  <div style="display:flex">
+  <img src="../assets/github.svg" alt="GitHub Logo" style="width:20px">
+    <span style="color:rgb(16, 54, 226); text-align: right; margin:0 0 0 10px; padding:0px;">06 Jul, 2026 | 02:54 PM</span>
+  </div>
+</div>
+
+**_Commit:_** <code style="color: red; font-weight: bold;">6e7a2ab45</code>
+**Message:** Multiple Fixes in the Dispatch Native 1. Job can be created from Unscheduled Section 2. Changing the filter, will by default select all the members 3. Map will be recentered wherenver the assignee is changed 4. Selecting "from office"  will by default select the toggle button ON 5. Some texts changed in the Assignee Section
+**Description:**
+- Multiple Fixes in the Dispatch Native
+1. Job can be created from Unscheduled Section
+2. Changing the filter, will by default select all the members
+3. Map will be recentered wherenver the assignee is changed
+4. Selecting "from office"  will by default select the toggle button ON
+5. Some texts changed in the Assignee Section
+---
