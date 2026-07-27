@@ -108,3 +108,19 @@
 - Notes working during Job Edition and Duplication
 - Notes working for GHL Synced Appointments
 ---
+<div style="display: flex; justify-content: space-between; align-items:end;">
+  <div style="display:flex">
+      <img src="../assets/branch.svg" alt="GitHub Logo"  style="width:20px; margin:0 10px 0 0">
+      <h3 style="margin: 0; padding:0; font-weight: bold; font-size:20px;">fahim/job-media</h3>
+  </div>
+  <div style="display:flex">
+  <img src="../assets/github.svg" alt="GitHub Logo" style="width:20px">
+    <span style="color:rgb(16, 54, 226); text-align: right; margin:0 0 0 10px; padding:0px;">27 Jul, 2026 | 02:08 PM</span>
+  </div>
+</div>
+
+**_Commit:_** <code style="color: red; font-weight: bold;">b4e73f3</code>
+**Message:** GHL Notes are being saved correctly when multiple notes are being sent together
+**Description:**
+- GHL Notes are being saved correctly when multiple notes are being sent together
+---
