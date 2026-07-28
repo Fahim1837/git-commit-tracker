@@ -500,3 +500,19 @@
 **Description:**
 - The code is refactored. More readable than before
 ---
+<div style="display: flex; justify-content: space-between; align-items:end;">
+  <div style="display:flex">
+      <img src="../assets/branch.svg" alt="GitHub Logo"  style="width:20px; margin:0 10px 0 0">
+      <h3 style="margin: 0; padding:0; font-weight: bold; font-size:20px;">fahim/job-media</h3>
+  </div>
+  <div style="display:flex">
+  <img src="../assets/github.svg" alt="GitHub Logo" style="width:20px">
+    <span style="color:rgb(16, 54, 226); text-align: right; margin:0 0 0 10px; padding:0px;">28 Jul, 2026 | 05:32 PM</span>
+  </div>
+</div>
+
+**_Commit:_** <code style="color: red; font-weight: bold;">dfa6d1e</code>
+**Message:** Signals won't fire even if note or unprocessed image is written in the DB., It will only work for processed image or audio
+**Description:**
+- Signals won't fire even if note or unprocessed image is written in the DB., It will only work for processed image or audio
+---
