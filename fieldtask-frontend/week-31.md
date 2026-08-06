@@ -462,3 +462,19 @@
 **Description:**
 - Job Evidence Timestamp and Geolocation Settings Page Created
 ---
+<div style="display: flex; justify-content: space-between; align-items:end;">
+  <div style="display:flex">
+      <img src="../assets/branch.svg" alt="GitHub Logo"  style="width:20px; margin:0 10px 0 0">
+      <h3 style="margin: 0; padding:0; font-weight: bold; font-size:20px;">fahim/live-location</h3>
+  </div>
+  <div style="display:flex">
+  <img src="../assets/github.svg" alt="GitHub Logo" style="width:20px">
+    <span style="color:rgb(16, 54, 226); text-align: right; margin:0 0 0 10px; padding:0px;">06 Aug, 2026 | 04:22 PM</span>
+  </div>
+</div>
+
+**_Commit:_** <code style="color: red; font-weight: bold;">e64ecfa0</code>
+**Message:** Live Locatio Issue seems to work
+**Description:**
+- Live Locatio Issue seems to work
+---
