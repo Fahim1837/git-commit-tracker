@@ -1198,3 +1198,19 @@ Appointment Notes working fine for multiple assignees
 **Description:**
 - Viewset, Serializer etc all seems to working. Need testing after the code refactoring
 ---
+<div style="display: flex; justify-content: space-between; align-items:end;">
+  <div style="display:flex">
+      <img src="../assets/branch.svg" alt="GitHub Logo"  style="width:20px; margin:0 10px 0 0">
+      <h3 style="margin: 0; padding:0; font-weight: bold; font-size:20px;">HEAD</h3>
+  </div>
+  <div style="display:flex">
+  <img src="../assets/github.svg" alt="GitHub Logo" style="width:20px">
+    <span style="color:rgb(16, 54, 226); text-align: right; margin:0 0 0 10px; padding:0px;">14 Aug, 2026 | 03:33 PM</span>
+  </div>
+</div>
+
+**_Commit:_** <code style="color: red; font-weight: bold;">3f05452</code>
+**Message:** GHL Oppotunity Sync Button is working correctly
+**Description:**
+- GHL Oppotunity Sync Button is working correctly
+---
