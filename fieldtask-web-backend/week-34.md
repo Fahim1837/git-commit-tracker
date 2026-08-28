@@ -186,3 +186,19 @@ Local Storage Files Configuration
 **Description:**
 - Merge branch 'fahim/assign-color' into staging
 ---
+<div style="display: flex; justify-content: space-between; align-items:end;">
+  <div style="display:flex">
+      <img src="../assets/branch.svg" alt="GitHub Logo"  style="width:20px; margin:0 10px 0 0">
+      <h3 style="margin: 0; padding:0; font-weight: bold; font-size:20px;">fahim/assign-color</h3>
+  </div>
+  <div style="display:flex">
+  <img src="../assets/github.svg" alt="GitHub Logo" style="width:20px">
+    <span style="color:rgb(16, 54, 226); text-align: right; margin:0 0 0 10px; padding:0px;">28 Aug, 2026 | 03:15 PM</span>
+  </div>
+</div>
+
+**_Commit:_** <code style="color: red; font-weight: bold;">02dd419</code>
+**Message:** Assignee Removed when member is deleted from the organization
+**Description:**
+- Assignee Removed when member is deleted from the organization
+---
